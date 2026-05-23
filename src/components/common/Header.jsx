@@ -12,7 +12,7 @@ function Header() {
                 
                 {/* LOGO */}
                 <h1 className="text-xl md:text-2xl font-bold tracking-wide">
-                    🎸 Guitara
+                    Guitara
                 </h1>
 
                 {/* DESKTOP NAV */}
