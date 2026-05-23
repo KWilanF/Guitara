@@ -43,7 +43,7 @@ function SongPage() {
             {/* HEADER */}
             <div className="max-w-6xl mx-auto mb-8 flex flex-col items-center text-center p-4">
                 <h1 className="text-3xl md:text-4xl font-bold text-green-800">
-                    🎵 Songs Library
+                Songs Library
                 </h1>
 
                 <p className="text-gray-600 mt-2">
